@@ -1,8 +1,7 @@
 ![hero](image.png)
 
-
 <p align="center">
-	<h1 align="center"><b>Create v1</b></h1>
+	<h1 align="center"><b>Create medai</b></h1>
 <p align="center">
     An open-source starter kit based on <a href="https://midday.ai">Midday</a>.
     <br />
